@@ -12,7 +12,7 @@
 #include "imx6ul.dtsi"
 
 / {
-	model = "Freescale i.MX6 UltraLite 14x14 EVK Board";
+	model = "ESYS-PLUM-V0.01";
 	compatible = "fsl,imx6ul-14x14-evk", "fsl,imx6ul";
 
 	chosen {
